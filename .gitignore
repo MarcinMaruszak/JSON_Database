@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/JSON Database/task/build/
+/JSON Database/task/out/
+/JSON Database/task/out/production/classes/
+/Problems/Check whether a number is prime/out/
+/Problems/Check whether a number is prime/out/production/classes/
